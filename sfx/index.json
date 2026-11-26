@@ -1,0 +1,92 @@
+{
+  "whip": {
+    "file": "whip.wav",
+    "hit": 0.09,
+    "dur": 0.2
+  },
+  "reverse_whoosh": {
+    "file": "reverse_whoosh.wav",
+    "hit": 0.55,
+    "dur": 0.55
+  },
+  "click": {
+    "file": "click.wav",
+    "hit": 0.0,
+    "dur": 0.06
+  },
+  "pop": {
+    "file": "pop.wav",
+    "hit": 0.0,
+    "dur": 0.14
+  },
+  "shutter": {
+    "file": "shutter.wav",
+    "hit": 0.0,
+    "dur": 0.22
+  },
+  "impact_boom": {
+    "file": "impact_boom.wav",
+    "hit": 0.0,
+    "dur": 2.8
+  },
+  "hit": {
+    "file": "hit.wav",
+    "hit": 0.0,
+    "dur": 1.6
+  },
+  "thump": {
+    "file": "thump.wav",
+    "hit": 0.0,
+    "dur": 0.6
+  },
+  "riser": {
+    "file": "riser.wav",
+    "hit": 1.3,
+    "dur": 1.3
+  },
+  "shimmer": {
+    "file": "shimmer.wav",
+    "hit": 0.21,
+    "dur": 1.3
+  },
+  "ding": {
+    "file": "ding.wav",
+    "hit": 0.0,
+    "dur": 2.5
+  },
+  "whoosh": {
+    "file": "whoosh.wav",
+    "hit": 0.2604,
+    "dur": 0.42
+  },
+  "whoosh_long": {
+    "file": "whoosh_long.wav",
+    "hit": 0.3575,
+    "dur": 0.65
+  },
+  "whoosh_out": {
+    "file": "whoosh_out.wav",
+    "hit": 0.0,
+    "dur": 0.5
+  },
+  "whoosh_out_soft": {
+    "file": "whoosh_out_soft.wav",
+    "hit": 0.4,
+    "dur": 0.8
+  },
+  "whoosh_down": {
+    "file": "whoosh_down.wav",
+    "hit": 0.165,
+    "dur": 0.55
+  },
+  "whoosh_up": {
+    "file": "whoosh_up.wav",
+    "hit": 0.375,
+    "dur": 0.5
+  },
+  "whoosh_blur": {
+    "file": "whoosh_blur.wav",
+    "hit": 0.4125,
+    "dur": 0.75
+  }
+}
